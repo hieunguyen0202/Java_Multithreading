@@ -1,5 +1,5 @@
 # Java_Multithreading
-##ava Threads - Creating, starting and stopping threads in Java
+## Java Threads - Creating, starting and stopping threads in Java
 ![image](https://github.com/hieunguyen0202/Java_Multithreading/assets/98166568/aa78770b-1e0a-42ed-9636-264e660dbad6)
 ![image](https://github.com/hieunguyen0202/Java_Multithreading/assets/98166568/7c122bbc-a095-4dbd-b04f-6991ded6c911)
 ![image](https://github.com/hieunguyen0202/Java_Multithreading/assets/98166568/f62e1fe7-c585-44ee-8104-85eb424a7f22)
