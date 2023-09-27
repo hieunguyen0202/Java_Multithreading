@@ -10,3 +10,5 @@
 ![image](https://github.com/hieunguyen0202/Java_Multithreading/assets/98166568/c60ebe36-12cd-40c3-a38c-a3c17ecbdfb7)
 ![image](https://github.com/hieunguyen0202/Java_Multithreading/assets/98166568/cde69f31-0d57-4f67-a0d4-b1877c44ccaf)
 ![image](https://github.com/hieunguyen0202/Java_Multithreading/assets/98166568/72326d37-7932-4adf-8d59-a5882bfa490d)
+![image](https://github.com/hieunguyen0202/Java_Multithreading/assets/98166568/646c64c2-363a-4a52-9c63-d272d40a3f61)
+#### synchronized : It mean that only one thread will call request stop at the same time
