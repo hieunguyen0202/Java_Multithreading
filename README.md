@@ -17,3 +17,4 @@
 ![image](https://github.com/hieunguyen0202/Java_Multithreading/assets/98166568/2070cb77-d8bc-49d7-92da-46a439d05a72)
 ![image](https://github.com/hieunguyen0202/Java_Multithreading/assets/98166568/78d4c9a8-c806-4dbb-ad10-ad8b3b1bf615)
 ![image](https://github.com/hieunguyen0202/Java_Multithreading/assets/98166568/b582e1d6-bffb-4e80-b0ca-c9f6450750fd)
+![image](https://github.com/hieunguyen0202/Java_Multithreading/assets/98166568/652da8ac-89c6-4b17-ac96-a52095d08d6a)
